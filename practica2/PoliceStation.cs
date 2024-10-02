@@ -1,6 +1,6 @@
 ﻿namespace Practice2
 {
-    class PoliceStation
+    class PoliceStation : IMessageWriter
     {
         private List<PoliceCar> policeCars;
         private bool activeAlert;
@@ -10,30 +10,40 @@
         {
             policeCars = new List<PoliceCar>();
             activeAlert = false;
+            alertedPlate = "";
+            Console.WriteLine(WriteMessage("Police Station created."));
         }
 
         public void RegisterPoliceCar(PoliceCar car)
         {
             policeCars.Add(car);
-            Console.WriteLine($"Police car with plate {car.GetPlate()} registered in the station.");
+            Console.WriteLine(WriteMessage($"Police car with plate {car.GetPlate()} registered."));
         }
 
         public void ActivateAlert(string infractorPlate)
         {
             activeAlert = true;
             alertedPlate = infractorPlate;
+            Console.WriteLine(WriteMessage($"Alert activated for vehicle with plate {infractorPlate}."));
             NotifyAllPoliceCars();
         }
 
         private void NotifyAllPoliceCars()
         {
-            foreach (PoliceCar car in policeCars)
+            foreach (var car in policeCars)
             {
                 if (car.IsPatrolling())
                 {
-                    car.Pursue(alertedPlate);
+                    Console.WriteLine(car.WriteMessage($"Pursuing vehicle with plate {alertedPlate}."));
                 }
             }
         }
+
+        public string WriteMessage(string message)
+        {
+            return $"Police Station: {message}";
+        }
     }
 }
+
+

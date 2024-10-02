@@ -1,12 +1,13 @@
 ﻿namespace Practice2
 {
-    class SpeedRadar : IMessageWritter
+    public class SpeedRadar : IMessageWriter
     {
-        //Radar doesn't know about Vechicles, just speed and plates
         private string plate;
         private float speed;
         private float legalSpeed = 50.0f;
         public List<float> SpeedHistory { get; private set; }
+
+        public float LegalSpeed { get { return legalSpeed; } }
 
         public SpeedRadar()
         {
@@ -21,7 +22,7 @@
             speed = vehicle.GetSpeed();
             SpeedHistory.Add(speed);
         }
-        
+
         public string GetLastReading()
         {
             if (speed > legalSpeed)
@@ -40,3 +41,4 @@
         }
     }
 }
+

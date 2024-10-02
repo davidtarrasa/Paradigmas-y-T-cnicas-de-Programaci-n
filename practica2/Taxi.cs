@@ -2,13 +2,11 @@
 {
     class Taxi : Vehicle
     {
-        //constant string as TypeOfVehicle wont change allong PoliceCar instances.
         private static string typeOfVehicle = "Taxi";
         private bool isCarryingPassengers;
 
         public Taxi(string plate) : base(typeOfVehicle, plate)
         {
-            //Values of atributes are set just when the instance is done if not needed before.
             isCarryingPassengers = false;
             SetSpeed(45.0f);
         }
