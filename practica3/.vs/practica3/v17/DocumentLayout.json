@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\SpeedDebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpeedDebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\PoliceCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliceCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\SpeedDebuffCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpeedDebuffCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\PoliceCarCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliceCarCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ConstructionFenceCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstructionFenceCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ObstacleCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObstacleCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ConstructionFence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstructionFence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Obstacle.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Obstacle.cs",
+              "RelativeToolTip": "Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:37.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoliceCar.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\PoliceCar.cs",
+              "RelativeDocumentMoniker": "PoliceCar.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\PoliceCar.cs",
+              "RelativeToolTip": "PoliceCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:07:04.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObstacleCreator.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ObstacleCreator.cs",
+              "RelativeDocumentMoniker": "ObstacleCreator.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ObstacleCreator.cs",
+              "RelativeToolTip": "ObstacleCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:25:10.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConstructionFenceCreator.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ConstructionFenceCreator.cs",
+              "RelativeDocumentMoniker": "ConstructionFenceCreator.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ConstructionFenceCreator.cs",
+              "RelativeToolTip": "ConstructionFenceCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:59:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:26:31.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoliceCarCreator.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\PoliceCarCreator.cs",
+              "RelativeDocumentMoniker": "PoliceCarCreator.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\PoliceCarCreator.cs",
+              "RelativeToolTip": "PoliceCarCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:53:41.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeedDebuff.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\SpeedDebuff.cs",
+              "RelativeDocumentMoniker": "SpeedDebuff.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\SpeedDebuff.cs",
+              "RelativeToolTip": "SpeedDebuff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:03.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:17:32.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeedDebuffCreator.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\SpeedDebuffCreator.cs",
+              "RelativeDocumentMoniker": "SpeedDebuffCreator.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\SpeedDebuffCreator.cs",
+              "RelativeToolTip": "SpeedDebuffCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:59:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConstructionFence.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ConstructionFence.cs",
+              "RelativeDocumentMoniker": "ConstructionFence.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive - Universidad Pontificia Comillas\\03 CURSO\\1er Semestre\\Paradigmas y Tecnicas de Programaci\u00F3n\\TEMA6-patronesdise\u00F1o_SOLID_ccode\\practica3\\practica3\\ConstructionFence.cs",
+              "RelativeToolTip": "ConstructionFence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:53.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
