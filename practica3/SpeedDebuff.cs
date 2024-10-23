@@ -11,7 +11,7 @@
             MultVelocity = 0.5; 
         }
 
-        public override void CheckCollision()
+        public override void CheckCollision() // Override method to check collision with taxi
         {
             Console.WriteLine($"Comprobando colisión con speed debuff");
         }

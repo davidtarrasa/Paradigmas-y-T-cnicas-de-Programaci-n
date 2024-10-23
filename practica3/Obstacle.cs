@@ -7,8 +7,9 @@ namespace Practice3
         private bool solid;
         private double ptsHealth;
         private double multVelocity;
-        private double effectDuration; 
+        private double effectDuration;
 
+        // Properties to check if the obstacle is chasing and if it is solid
         public bool Chasing
         {
             get { return chasing; }  // Getter
@@ -21,6 +22,7 @@ namespace Practice3
             protected set { solid = value; }
         }
 
+        // Properties for health, velocity and effectduration points with validation with protected setter
         public double PtsHealth
         {
             get { return ptsHealth; }
@@ -44,7 +46,7 @@ namespace Practice3
             protected set { effectDuration = value; }
         }
 
-        public virtual void CheckCollision()
+        public virtual void CheckCollision() // Common function for all the obstacles, Virtual method to check collision with the taxi
         {
             Console.WriteLine($"Comprobando colisión");
         }

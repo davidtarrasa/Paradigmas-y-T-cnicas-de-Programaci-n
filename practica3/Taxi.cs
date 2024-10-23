@@ -2,7 +2,7 @@
 {
     public class Taxi
     {
-        private static Taxi instance; // Instancia estática de la clase Taxi
+        private static Taxi instance; // Static instance of class taxi (Singleton)
 
         private double health;
         private double speed;
@@ -17,11 +17,11 @@
             Speed = 1;
             IsDebuffed = false;
 
-            lastLifeValue = Health; // Inicializamos el último valor con el valor actual
-            lastSpeedValue = Speed; // Inicializamos el último valor con el valor actual
+            lastLifeValue = Health; // We initialize the last values with the current values
+            lastSpeedValue = Speed; 
         }
 
-        public static Taxi GetInstance() // Método para obtener la instancia del Taxi
+        public static Taxi GetInstance() // Method to obtain the Taxi instance
         {
             if (instance == null)
             {
@@ -52,16 +52,17 @@
             private set { isDebuffed = value; }
         }
 
-        private void CheckTaxiValues() // Método para mostrar los valores del taxi, por ahora es privado porque solo lo utilizamos dentro de esta clase
+        private void CheckTaxiValues() // Function to display the values ​​of the taxi, for now it is private because we only use it within this class
         {
-            if (health != lastLifeValue || speed != lastSpeedValue) // Solo imprime si hay un cambio
+            if (health != lastLifeValue || speed != lastSpeedValue) // Only print if there is a change
             {
                 Console.WriteLine($"{DateTimeOffset.Now.ToUnixTimeMilliseconds()}-> Vida: {health}, Velocidad: {speed}");
-                lastLifeValue = health; // Actualiza el último valor
-                lastSpeedValue = speed; // Actualiza el último valor
+                lastLifeValue = health; // Update the last value
+                lastSpeedValue = speed; 
             }
         }
 
+        // Functions that change class parameters due to impacts with obstacles
         public void TakeDamage(double damage)
         {
             Health -= damage;

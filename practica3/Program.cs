@@ -21,7 +21,7 @@ namespace Practice3
             {
                 double timeStamp = DateTimeOffset.Now.ToUnixTimeMilliseconds() / 1000.0 - startTime;
 
-                if (timeStamp - lastTimeStamp >= 0.02)
+                if (timeStamp - lastTimeStamp >= 0.02) // Check if enough time has passed to update game state
                 {
                     lastTimeStamp = timeStamp;
 
@@ -29,17 +29,16 @@ namespace Practice3
                     foreach (var obstacle in obstacles)
                     {
                        
-                        obstacle.CheckCollision();
+                        obstacle.CheckCollision(); // Check for collision with the taxi
                     }
 
-                    if (Console.KeyAvailable)
+                    if (Console.KeyAvailable) // Check if a key has been pressed
                     {
                         ConsoleKeyInfo key = Console.ReadKey(true);
                         switch (key.Key)
                         {
                             case ConsoleKey.A:
                                 obstacles.Add(new PoliceCarCreator().CreateObstacle());
-                                // Console.WriteLine("All scenarios executed. Press any key to exit.");
                                 break;
                             case ConsoleKey.D:
                                 obstacles.Add(new ConstructionFenceCreator().CreateObstacle());

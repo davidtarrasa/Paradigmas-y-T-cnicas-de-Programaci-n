@@ -2,7 +2,7 @@
 {
     public class ConstructionFenceCreator: ObstacleCreator
     {
-        public override ConstructionFence CreateObstacle()
+        public override ConstructionFence CreateObstacle() // Implementation of the CreateObstacle method
         {
             return new ConstructionFence();
         }

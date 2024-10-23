@@ -2,9 +2,9 @@
 {
     public class PoliceCarCreator: ObstacleCreator
     {
-        public override PoliceCar CreateObstacle()
+        public override PoliceCar CreateObstacle() // Implementation of the CreateObstacle method
         {
-            return new PoliceCar(); 
+            return new PoliceCar(); // Create and return a new instance of PoliceCar
         }
     }
 }
